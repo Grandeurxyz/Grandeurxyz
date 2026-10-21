@@ -1,10 +1,10 @@
 # Hi, I'm Obadofin Emmanuel 👋
 
-I'm a budding design engineer working at the intersection of design and code. I love building things that solve real problems, look good, and work well.
+I'm a software engineer and budding design engineer interested in the intersection of design and code, form and function, and how things work and make us feel.
 
-I currently work in software, and I'm growing toward industrial design and embedded engineering.
+I'm building **Matter.Lab**, an art, design and code studio for exploring ideas through making.
 
-**Favourite tools:** Typescript · Go · C <br>
-**Interests:** Design · AI · Robotics
+Currently, I'm focused on software engineering and learning how computers work from the ground up, with a long-term ambition to explore industrial design and embedded systems.
 
----
+**Tools:** TypeScript · Go · C  
+**Interests:** Design · Computer Systems · AI · Robotics

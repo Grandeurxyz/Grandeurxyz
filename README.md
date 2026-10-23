@@ -8,5 +8,5 @@ Currently, I'm focused on software engineering and understanding computers from 
 
 At the core, I love making things.
 
-**Tools:** TypeScript · Go · C  
+**Tools:** Python · TypeScript · Go · C  
 **Interests:** Design · Computer Systems · AI · Robotics

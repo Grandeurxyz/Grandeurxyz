@@ -2,9 +2,9 @@
 
 I'm a computer engineering undergrad focused on backend systems. I care about craft, well-designed products, and building things thoughtfully.
 
-Currently, I'm focused on software engineering and understanding computers from the ground up, with a long-term ambition to explore physical AI, embedded systems & Industrail design.
+Currently, I'm focused on software engineering and understanding computers from the ground up, with a long-term ambition to explore physical AI, embedded systems & Industrial design.
 
-On the side, I'm building **Matter.Lab**, an art, design, and code studio for exploring ideas through making.
+Because of my love for art & Design, I'm building **Matter.Lab**, an art, design, and code studio on the side for exploring ideas through making.
 
 At the core, I love making things.
 

@@ -1,7 +1,7 @@
 # Hey, I'm Obadofin Emmanuel 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;Embedded+Systems+Enthusiast;Exploring+Robotics+%26+Physical+AI;Art+%C3%97+Design+%C3%97+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;Embedded+Systems;Exploring+Robotics+%26+Physical+AI;Art+%C3%97+Design+%C3%97+Engineering" alt="Typing SVG" />
 </p>
 
 I'm a Computer Engineering undergraduate interested in understanding computers from the ground up and building things that interact with the physical world.
